@@ -8,7 +8,8 @@ import (
 	"sync"
 	"syscall"
 	"time"
-	"vpapidokha/go-graceful-shutdown/internal/server"
+
+	"github.com/vpapidokha/go-graceful-shutdown/internal/server"
 )
 
 func main() {
